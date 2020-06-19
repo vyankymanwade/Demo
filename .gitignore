@@ -1,2 +1,5 @@
 ignore.txt
 *.orig
+
+# Mac-Os temp files
+.DS_Store
